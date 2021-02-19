@@ -27,13 +27,25 @@ Please click the image to open a Youtube video demo.
 
 ## Installation
 
-1. You need to install dependencies first.
+1. Clone project
+```bash
+git clone https://github.com/stypr/clubhouse-py.git clubhouse_py
+cd clubhouse_py
+```
 
+2. Create an virtualenv
+```bash
+cd back
+pyenv virtualenv 3.9.0 clubhouse_py
+pyenv activate clubhouse_py
+```
+
+3. You need to install dependencies first.
 ```sh
 $ pip3 install -r requirements.txt
 ```
 
-2. You need to install Agora SDK for voice communication. Refer to [Agora-Python-SDK#installation](https://github.com/AgoraIO-Community/Agora-Python-SDK#installation).
+4. You need to install Agora SDK for voice communication. Refer to [Agora-Python-SDK#installation](https://github.com/AgoraIO-Community/Agora-Python-SDK#installation).
 
 ## Usage
 
