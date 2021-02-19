@@ -18,7 +18,7 @@ Please note that you may get a permanent ban for sending invalid API requests. S
 
 Please click the image to open a Youtube video demo.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1L6bEoNKego/maxresdefault.jpg)](https://www.youtube.com/watch?v=1L6bEoNKego)
+[![Demo video](https://img.youtube.com/vi/1L6bEoNKego/maxresdefault.jpg)](https://www.youtube.com/watch?v=1L6bEoNKego)
 
 ## Requirements
 
